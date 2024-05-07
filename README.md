@@ -1,5 +1,5 @@
 # InSAR_Sensitivity_Tool
-InSAR Sensitivity Index Tool - Google Earth Engine App <br>
+## **InSAR Sensitivity Index Tool - Google Earth Engine App** <br>
 This Google Earth Engine tool is designed to calculate the InSAR sensitivity index for a user-defined Area of Interest (AOI).<br>
 
 
